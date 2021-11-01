@@ -34,8 +34,7 @@ public class controller {
 		int option = scan.nextInt();
 		System.out.println();
 		
-	
-		// 3) log out
+		// 3) logout
 		System.out.print("Please enter 1 for logout: ");
 		int result = scan.nextInt();
 		System.out.println();
